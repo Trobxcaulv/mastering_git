@@ -1,4 +1,4 @@
-## Heyoo everyone , welcome to my git guide!
+## Hello, GIT
 
 
 -Yo, Fred here!
